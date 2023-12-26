@@ -1,0 +1,3 @@
+divide pra area de uso (academico/mercado)
+orientada a objeto(nao tem contexto de classes -projetos de grande escala) 
+nao orientada e funcional
